@@ -1,5 +1,7 @@
 # h2 1.4.198 regression
 
+Related to https://github.com/h2database/h2database/issues/1795
+
 `App.java` contains demostration about locking/transction issue in h2 1.4.198.
 
 1. Inserts 100 rows to the table.
