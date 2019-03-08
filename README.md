@@ -13,4 +13,4 @@ The idea is ensure that each row gets reserved maximum by 1 thread.
 With 1.4.198 one of the rows gets reserved by both threads. 
 In 1.4.197 this worked correctly: no row gets reserved by two threads. 
 
-You can change the 
+You can change the h2 version number in `pom.xml`.
